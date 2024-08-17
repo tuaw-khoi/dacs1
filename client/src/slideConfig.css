@@ -1,0 +1,23 @@
+.slick-slide {
+  box-sizing: border-box;
+}
+
+.slick-slider {
+  position: relative;
+}
+
+.slick-prev {
+  left: 93%;
+  top: -7%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  /* background-color: #408bea; */
+}
+
+.slick-next {
+  left: 93%;
+  top: -7%;
+  transform: translate(60%, -50%);
+  z-index: 1;
+  /* background-color: #408bea; */
+}
